@@ -4,7 +4,7 @@
   <sup>Sponsored by</sup><br>
   <a href="https://vaquill.ai"><strong>Vaquill AI</strong></a>
   <br>
-  <sub>AI-powered legal research platform with 20M+ cases, 4-layer citation verification, contract analysis, and multilingual support & Case Law APIs- built for legal professionals.</sub>
+  <sub>AI-powered legal research platform for the United States. Federal and state case law, USC and CFR statutes, citation verification, contract analysis, and APIs for developers.</sub>
 </div>
 
 ---
@@ -59,7 +59,7 @@ Legal technology (legaltech) is the use of technology and software to provide le
 
 Commercial and open APIs specifically designed for retrieving case law, statutes, and legal documents into applications.
 
-- [Vaquill AI API](https://vaquill.ai/legal-api) - Developer API providing programmatic access to 20M+ Indian Supreme Court, High Court, and Tribunal judgments with semantic search and citation verification. *(Sponsor)*
+- [Vaquill AI API](https://vaquill.ai/legal-api) - Developer API providing programmatic access to 8M+ US federal and state court opinions plus the complete US Code and CFR, with semantic search and citation verification. *(Sponsor)*
 
 ---
 
@@ -180,7 +180,7 @@ Domain-specific encoder models for legal text similarity, classification, and re
 
 [Model Context Protocol (MCP)](https://modelcontextprotocol.io) servers that connect AI assistants to legal data sources and workflows.
 
-- [Vaquill AI MCP](https://github.com/vaquill-AI/vaquill-mcp) - MCP server providing AI agents with access to 20M+ Indian Supreme Court, High Court, and Tribunal judgments with semantic search and citation verification. *(Sponsor)*
+- [Vaquill AI MCP](https://github.com/vaquill-AI/vaquill-mcp) - MCP server that connects Claude / Cursor / Windsurf / VS Code to 8M+ US federal and state court opinions plus the US Code and CFR. *(Sponsor)*
 - [CourtListener MCP (DefendTheDisabled)](https://github.com/DefendTheDisabled/courtlistener-mcp) - Connects AI agents to CourtListener with semantic search, hybrid search, and citation verification to mitigate hallucination.
 - [CourtListener MCP (Travis-Prall)](https://github.com/Travis-Prall/court-listener-mcp) - MCP Server for accessing CourtListener case data, court opinions, and eCFR federal regulations.
 - [CourtListener MCP (khizar-anjum)](https://github.com/khizar-anjum/courtlistener-mcp) - MCP server built for searching cases by natural language legal problems across 3,352 U.S. courts.
@@ -728,6 +728,7 @@ Browser-based platforms and search engines for case law, statutes, and dockets.
 - [GlobaLex (NYU)](https://www.nyulawglobal.org/globalex/) - Comprehensive research guides and database listings for international, comparative, and foreign law.
 
 #### United States
+- [Vaquill AI](https://vaquill.ai) - Free AI legal research across 8M+ US federal and state court opinions plus USC and CFR, with citation verification. *(Sponsor)*
 - [CourtListener](https://www.courtlistener.com) - Free open case law search with API access. 9M+ opinions.
 - [PACER](https://pacer.uscourts.gov) - Official US federal court docket and document system.
 - [Caselaw Access Project](https://case.law) - 6.9M US court decisions, 1600s-2020. Free bulk API.
@@ -760,7 +761,6 @@ Browser-based platforms and search engines for case law, statutes, and dockets.
 - [Judilibre (Cour de Cassation)](https://www.courdecassation.fr/acces-rapide/judiciaire-judilibre) - Open API for French Supreme Court decisions. GDPR-anonymized.
 
 #### India
-- [Vaquill AI](https://vaquill.ai) - Free access to 20M+ Indian judgments with semantic search and citation verification. *(Sponsor)*
 - [Indian Kanoon](https://indiankanoon.org) - Free access to Indian court judgments, statutes, and legal documents.
 - [India Code](https://www.indiacode.nic.in/) - Central repository of all Central and State Acts and subordinate legislation.
 - [Supreme Court of India](https://sci.gov.in) - Official portal with judgments from the Supreme Court of India.
@@ -787,7 +787,7 @@ Browser-based platforms and search engines for case law, statutes, and dockets.
 - [WorldLII](https://www.worldlii.org) - Global free legal information network.
 
 ### Commercial AI Research Platforms
-- [Vaquill AI](https://vaquill.ai) - **[AI-Native]** Indian legal research platform with agentic workflows, MCP server, and proprietary database of 20M+ judgments. *(Sponsor)*
+- [Vaquill AI](https://vaquill.ai) - **[AI-Native]** US legal research platform with agentic workflows, MCP server, and an API for developers building on top of US case law and statutes. *(Sponsor)*
 - [Leya](https://leya.law) - **[AI-Native]** Agentic research and legal memo generation.
 - [Paxton AI](https://paxton.ai) - **[AI-Native]** Jurisdiction-aware AI legal answers.
 - [EvenUp](https://evenuplaw.com) - **[AI-Native]** Agentic demand letter generation and research for personal injury.
