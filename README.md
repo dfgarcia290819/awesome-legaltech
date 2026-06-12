@@ -3,7 +3,7 @@
   <sup>Sponsored by</sup><br>
   <a href="https://vaquill.ai"><strong>Vaquill AI</strong></a>
   <br>
-  <sub>AI-powered legal research platform for the United States. Federal and state case law, USC and CFR statutes, citation verification, contract analysis, and APIs for developers.</sub>
+  <sub>Legal AI suite for US in-house counsel and GCs. Contract review, compliance research, drafting, document comparison, and citation-verified answers, privilege-architected for solo GCs and 2-10 person legal teams.</sub>
 </div>
 
 ---
