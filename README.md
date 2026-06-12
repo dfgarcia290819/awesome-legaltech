@@ -59,7 +59,7 @@ Legal technology (legaltech) is the use of technology and software to provide le
 
 Commercial and open APIs specifically designed for retrieving case law, statutes, and legal documents into applications.
 
-- [Vaquill AI API](https://vaquill.ai/legal-api) - Developer API providing programmatic access to 8M+ US federal and state court opinions plus the complete US Code and CFR, with semantic search and citation verification. *(Sponsor)*
+- [Vaquill AI API](https://vaquill.ai/legal-api) - Self-serve REST API over 1.35M+ US statute sections: the complete US Code, the CFR, all 50 state codes, the Federal Rules, and Executive Orders, with hybrid semantic search, AI-grounded answers, and citation verification. 500 free credits. *(Sponsor)*
 - [CourtListener REST API](https://www.courtlistener.com/help/api/) - **[🇺🇸 US]** Free Law Project API over 9M+ opinions, dockets, judges, and RECAP/PACER filings; free tier plus semantic search endpoint (Nov 2025).
 - [LegiScan API](https://legiscan.com/legiscan) - **[🇺🇸 US]** Structured JSON for legislation in all 50 states + Congress; free tier (30K queries/month) with paid plans.
 - [Open States API v3](https://docs.openstates.org/api-v3/) - **[🇺🇸 US]** Free REST API for US state legislators, bills, votes, and committees across 50 states + DC + territories.
@@ -924,7 +924,7 @@ Direct links to canonical government legal-data sources for jurisdictions where 
 - [legal-tech-chat](https://github.com/tomasonjo-labs/legal-tech-chat) - **[Open Source]** Reference pipeline: CUAD extraction → Neo4j knowledge graph → LangGraph agent.
 
 ### Commercial AI Research Platforms
-- [Vaquill AI](https://vaquill.ai) - **[AI-Native]** US legal research platform with agentic workflows, MCP server, and an API for developers building on top of US case law and statutes. *(Sponsor)*
+- [Vaquill AI](https://vaquill.ai) - **[AI-Native]** US legal research and drafting platform with agentic workflows and case-law research, an MCP server, and a self-serve statutes API (USC, CFR, 50-state codes) for developers. *(Sponsor)*
 - [Leya](https://leya.law) - **[AI-Native]** Agentic research and legal memo generation.
 - [Paxton AI](https://paxton.ai) - **[AI-Native]** Jurisdiction-aware AI legal answers.
 - [EvenUp](https://evenuplaw.com) - **[AI-Native]** Agentic demand letter generation and research for personal injury.
